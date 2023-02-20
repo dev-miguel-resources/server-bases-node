@@ -1,0 +1,1 @@
+console.log("Starting with the bases of Node.js");
