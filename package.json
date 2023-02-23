@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "start:ts": "ts-node src/index.ts",
-    "dev": "nodemon src/indexImperative.ts"
+    "dev": "nodemon src/indexDeclarative2.ts"
   },
   "keywords": [],
   "author": "",
